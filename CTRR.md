@@ -4,4 +4,6 @@
 
 ## 1. Mệnh đề
 
-> **Định nghĩa:** Mệnh đề là một khẳng định có giá trị chân trị xác định, `đúng` hoặc $sai$
+> **Định nghĩa:** Mệnh đề là một khẳng định có giá trị chân trị xác định, `đúng` hoặc `sai`
+
+<p color="red"> Tui là Nguyễn Huỳnh Thanh Trúc </p>
