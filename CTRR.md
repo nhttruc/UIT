@@ -151,110 +151,20 @@
 
 ### ![icons8_star_of_bethlehem_48px_3.png](https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-18-41-icons8_star_of_bethlehem_48px_3.png) **CÁC LUẬT LOGIC** (QUAN TRỌNG)
 
-<details>
-  <summary>
-    <b>1. Phủ định của phủ định:</b>
-  </summary>
+| 1. Phủ định của phủ định:                | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-19-29-phu_dinh_cua_phu_dinh.PNG">         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **2. Quy tắc De Morgan:**                | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-22-26-De_Morgan.PNG">                     |
+| **3. Luật giao hoán:**                   | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-23-56-Luat_giao_hoan.PNG">                |
+| **4. Luật kết hợp:**                     | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-24-54-Luat_ket_hop.PNG">                  |
+| **5. Luật phân phối:**                   | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-26-51-Luat_phan_phoi.PNG">                |
+| **6. Luật luỹ đẳng:**                    | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-27-44-Luat_luy_dang.PNG">                 |
+| **7. Luật trung hoà:**                   | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-28-19-Luat_trung_hoa.PNG">                |
+| **8. Luật về phần tử bù:**               | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-29-22-Luat_ve_phan_tu_bu.PNG">            |
+| **9. Luật thống trị:**                   | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-30-21-Luat_thong_tri.PNG">                |
+| **10. Luật hấp thu:**                    | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-31-03-Luat_hap_thu.PNG">                  |
+| **11. Luật về phép kéo theo:**           | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-33-44-Luat_ve_phep_keo_theo.PNG">         |
+| **12. Luật về phép kéo theo hai chiều:** | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-36-01-Luat_ve_phep_keo_theo_2_chieu.PNG"> |
 
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-19-29-phu_dinh_cua_phu_dinh.PNG">
 
-</details>
-
-<details>
-  <summary>
-    <b>2. Qui tắc De Morgan:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-22-26-De_Morgan.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>3. Luật giao hoán:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-23-56-Luat_giao_hoan.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>4. Luật kết hợp:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-24-54-Luat_ket_hop.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>5. Luật phân phối:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-26-51-Luat_phan_phoi.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>6. Luật luỹ đẳng:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-27-44-Luat_luy_dang.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>7. Luật trung hoà:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-28-19-Luat_trung_hoa.PNG">
-
-<details>
-  <summary>
-    <b>8. Luật về phần tử bù:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-29-22-Luat_ve_phan_tu_bu.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>9. Luật thống trị:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-30-21-Luat_thong_tri.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>10. Luật hấp thu:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-31-03-Luat_hap_thu.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>11. Luật về phép kéo theo:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-33-44-Luat_ve_phep_keo_theo.PNG">
-
-</details>
-
-<details>
-  <summary>
-    <b>12. Luật về phép kéo theo hai chiều:</b>
-  </summary>
-
-<img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-36-01-Luat_ve_phep_keo_theo_2_chieu.PNG">
-
-</details>
 
 ---
