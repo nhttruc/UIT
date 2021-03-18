@@ -1,4 +1,4 @@
-# <img title="" src="file:///C:/Users/Taurus/AppData/Local/Temp/icons8_taurus_100px_2.png" width="45"> This is where I keep my lessons <img src="https://icons8.com/icon/80355/icon" width="45">
+# <img title="" src="file:///C:/Users/Taurus/AppData/Local/Temp/icons8_taurus_100px_2.png" width="45"> This is where I keep my lessons <img src="C:\Users\Taurus\AppData\Local\Temp\icons8_star_48px.png" width="45">
 
 <br>
 
