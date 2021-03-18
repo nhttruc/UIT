@@ -108,3 +108,7 @@
 ### ![icons8_star_of_bethlehem_48px_1.png](C:\Users\Taurus\AppData\Local\Temp\icons8_star_of_bethlehem_48px_1.png) **CÁC LUẬT LOGIC** (QUAN TRỌNG)
 
 > 1. **Phủ định của phủ định:** ![phu_dinh_cua_phu_dinh.PNG](D:\NHTT_Taurus\3_Taurus_Image\Github_img\phu_dinh_cua_phu_dinh.PNG)
+
+
+
+![2.PNG](https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-19-06-31-2.PNG)
