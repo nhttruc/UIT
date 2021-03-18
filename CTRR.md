@@ -4,7 +4,7 @@
 
 ## 1. Mệnh đề
 
-> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-03-13-icons8_study_48px_1.png" width="25"> **<u>Định nghĩa:</u>** Mệnh đề là một khẳng định có giá trị `chân trị` xác định, `đúng` hoặc `sai`
+> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-03-13-icons8_study_48px_1.png" width="25"> **<u>`Định nghĩa:`</u>** Mệnh đề là một khẳng định có giá trị `chân trị` xác định, `đúng` hoặc `sai`
 > 
 > Câu hỏi, câu cảm thán, mệnh lệnh,... không là mệnh đề
 
@@ -78,7 +78,7 @@
 
 ## 2. Biểu thức logic (Dạng mệnh đề)
 
-> **<u>Định nghĩa</u>:** Biểu thức logic được cấu tạo từ: 
+> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-03-13-icons8_study_48px_1.png" width="25"> **<u>`Định nghĩa`</u>:** Biểu thức logic được cấu tạo từ: 
 > 
 > * Các mệnh đề (các hằng mệnh đề)
 > 
@@ -88,14 +88,14 @@
 
 <details>
   <summary>
-  <u>Ví dụ:</u>
+  <u><img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-22-01-21-icons8_example_50px.png" width="30">Ví dụ:</u>
   </summary>
 
   ![vd_bieu_thuc_logic.PNG](https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-12-14-vd_bieu_thuc_logic.PNG)
 
 </details>
 
-> **<u>Nhận xét:</u>** Nếu có n biến mệnh đề thì ta có ![so_truong_hop.PNG](https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-12-37-so_truong_hop.PNG) trường hợp chân trị cho bộ n biến.
+> ![icons8_quote_26px.png](https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-22-08-45-icons8_quote_26px.png) **<u>`Nhận xét:`</u>** Nếu có n biến mệnh đề thì ta có ![so_truong_hop.PNG](https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-12-37-so_truong_hop.PNG) trường hợp chân trị cho bộ n biến.
 
 <br>
 
