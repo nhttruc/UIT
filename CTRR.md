@@ -4,7 +4,7 @@
 
 ## 1. Mệnh đề
 
-> **<u>Định nghĩa:</u>** Mệnh đề là một khẳng định có giá trị `chân trị` xác định, `đúng` hoặc `sai`
+> <img src="file:///C:/Users/Taurus/AppData/Local/Temp/icons8_study_48px.png" width="25"> **<u>Định nghĩa:</u>** Mệnh đề là một khẳng định có giá trị `chân trị` xác định, `đúng` hoặc `sai`
 > 
 > Câu hỏi, câu cảm thán, mệnh lệnh,... không là mệnh đề
 
@@ -24,8 +24,8 @@
 <summary> 1. **Phép phủ định:** <img src="D:\NHTT_Taurus\3_Taurus_Image\Github_img\githubimg_phep_phu.PNG"> </summary>
 
  <u>Bảng chân trị: </u>
-   
-   <img src="D:\NHTT_Taurus\3_Taurus_Image\Github_img\bang_chan_tri_phep_phu.PNG">
+
+<img src="D:\NHTT_Taurus\3_Taurus_Image\Github_img\bang_chan_tri_phep_phu.PNG">
 
 </details>
 
@@ -75,8 +75,6 @@
 
 > **<u>Nhận xét:</u>** Nếu có n biến mệnh đề thì ta có ![so_truong_hop.PNG](D:\NHTT_Taurus\3_Taurus_Image\Github_img\so_truong_hop.PNG) trường hợp chân trị cho bộ n biến.
 
-
-
 ![icons8_high_risk_48px.png](C:\Users\Taurus\AppData\Local\Temp\icons8_high_risk_48px.png)
 
 ##### Tương đương logic:
@@ -104,3 +102,9 @@
 > F được gọi là hệ quả logic của E nếu ![e_keo_theo_f.PNG](D:\NHTT_Taurus\3_Taurus_Image\Github_img\e_keo_theo_f.PNG) là hằng đúng
 > 
 > <u>Ký hiệu:</u> ![ky_hieu_he_qua_logic.PNG](D:\NHTT_Taurus\3_Taurus_Image\Github_img\ky_hieu_he_qua_logic.PNG)
+
+
+
+### ![icons8_star_of_bethlehem_48px_1.png](C:\Users\Taurus\AppData\Local\Temp\icons8_star_of_bethlehem_48px_1.png) **CÁC LUẬT LOGIC** (QUAN TRỌNG)
+
+> 1. **Phủ định của phủ định:** ![phu_dinh_cua_phu_dinh.PNG](D:\NHTT_Taurus\3_Taurus_Image\Github_img\phu_dinh_cua_phu_dinh.PNG)
