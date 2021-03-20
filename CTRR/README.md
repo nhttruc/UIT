@@ -11,6 +11,6 @@
 - Chương 3.
 - Chương 4.
 
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-00-31-logo-uit.png" title="" alt="logo-uit.png" width="50"> Lý thuyết Slide đầy đủ
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-00-31-logo-uit.png" title="" alt="logo-uit.png" width="40"> Lý thuyết Slide đầy đủ
 
 - [Chương 1. Cơ sở Logic](https://github.com/nhttruc/UIT/raw/main/CTRR/Tailieu/Chuong1.Co_so_logic_slides%2Bbai_tap.pdf)
