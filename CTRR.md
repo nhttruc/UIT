@@ -24,7 +24,7 @@ Mệnh đề là một khẳng định có giá trị `chân trị` xác định
 
 <details>
   <summary>
-  <b>  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/18-22-30-59-icons8-merge.png"> 2. Phép hội (nối liền, giao):</b> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-07-21-phep_giao.PNG" width="60">
+  <b> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/18-22-34-38-icons8-combine.png">  2. Phép hội (nối liền, giao):</b> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-07-21-phep_giao.PNG" width="60">
   </summary>
 
    <u>Bảng chân trị:</u>
@@ -35,7 +35,7 @@ Mệnh đề là một khẳng định có giá trị `chân trị` xác định
 
 <details>
   <summary>
-  <b>  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/18-22-34-38-icons8-combine.png"> 3. Phép tuyển (nối rời, hợp:)</b> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-08-35-phep_hop.PNG" widtdh="20">
+  <b>  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/18-22-30-59-icons8-merge.png"> 3. Phép tuyển (nối rời, hợp:)</b> <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-08-35-phep_hop.PNG" widtdh="20">
   </summary>
 
    <u>Bảng chân trị:</u>
@@ -99,7 +99,7 @@ Mệnh đề là một khẳng định có giá trị `chân trị` xác định
 
 ---
 
-### <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-18-41-icons8_star_of_bethlehem_48px_3.png" title="" alt="icons8_star_of_bethlehem_48px_3.png" width="40"> **CÁC LUẬT LOGIC** (QUAN TRỌNG)
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-13-38-22-icons8-rules.png" title="" alt="icons8-rules.png" width="40"> 3. **CÁC LUẬT LOGIC** (`QUAN TRỌNG`)
 
 | Định luật                                                                              | Mô tả                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,3 +110,15 @@ Mệnh đề là một khẳng định có giá trị `chân trị` xác định
 | Hấp thu                                                                                | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-31-03-Luat_hap_thu.PNG">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Kéo theo                                                                               | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-33-44-Luat_ve_phep_keo_theo.PNG">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Kéo theo 2 chiều                                                                       | <img src="https://raw.githubusercontent.com/nhttruc/Image/master/2021/03/18-20-36-01-Luat_ve_phep_keo_theo_2_chieu.PNG">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-13-41-08-icons8-ophthalmology.png" title="" alt="icons8-ophthalmology.png" width="40"> 4.Quy tắc suy diễn
+
+---
+
+## <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-13-41-58-icons8-signature.png" alt="icons8-signature.png" width="40"> 5.Vị từ - lượng từ
+
+---
+
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-13-42-41-icons8-inductive_distance_measurement.png" title="" alt="icons8-inductive_distance_measurement.png" width="40"> 6. Quy nạp
