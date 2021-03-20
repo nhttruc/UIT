@@ -4,13 +4,13 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Taurus](https://www.facebook.com/NHTT.01)                                                                                                              | [Zenfection](https://facebook.com/Zenfection)                                                                                                                 | 2021                                                                                                                                                                        |
 
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-12-12-book_ctu_uit.png" title="" alt="book_ctu_uit.png" width="50">1.Guide
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-12-12-book_ctu_uit.png" title="" alt="book_ctu_uit.png" width="50">Guide to Learn
 
 - [Chương 1. Cơ sở Logic](https://github.com/nhttruc/UIT/blob/main/CTRR/1.Co_so_logic.md)
 - Chương 2.
 - Chương 3.
 - Chương 4.
 
-## 2. Lý thuyết Slide đầy đủ <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-00-31-logo-uit.png" title="" alt="logo-uit.png" width="50">
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/03/20-14-00-31-logo-uit.png" title="" alt="logo-uit.png" width="50"> Lý thuyết Slide đầy đủ
 
 - [Chương 1. Cơ sở Logic](https://github.com/nhttruc/UIT/raw/main/CTRR/Tailieu/Chuong1.Co_so_logic_slides%2Bbai_tap.pdf)
